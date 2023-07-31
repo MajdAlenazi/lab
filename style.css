@@ -1,0 +1,56 @@
+.header{
+    padding: 10px;
+    background-color:rgb(199, 192, 192) ;
+}
+
+
+h1{
+    text-align: center;
+    color:rgb(2, 15, 27);
+    font-size: 50px;
+}
+
+.info{
+text-align: center;
+font-size:15px ;
+color:rgb(2, 15, 27);
+}
+.fa-solid{
+    margin-left: 20px;
+    font-family:cursive;
+}
+
+strong{
+    font-size: 30px; 
+    color: rgb(146, 128, 128);
+    margin-left: 5px;
+}
+
+p{
+    font-size: 20px;  
+    line-height:30px;
+    font-family:'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+ul{
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+    margin-left: 10px;
+}
+li{
+    font-size: 17px;
+    font-family:'Times New Roman', Times, serif;
+    margin-left: 20px;
+    line-height:20px;
+
+
+
+}
+h5{
+    font-size: 18px;
+    margin-left: 10px;
+    font-family:'Times New Roman', Times, serif;
+    margin-left: 20px;
+    
+    
+}
